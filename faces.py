@@ -41,9 +41,9 @@ def detect_face(img1_path, img2_path):
     # print(matches)
 
     if True in matches:
-        return 1
+        return "Faces are of same person"
     else:
-        return 0
+        return "Faces are of different person"
 
 
 #boola = detect_face(img1_path, img2_path)
