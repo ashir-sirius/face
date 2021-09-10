@@ -1,5 +1,7 @@
 # face-Recognition API
 
+Installation of dependencies,
+
 (1) pip install face-recognition
 
 (2)
@@ -15,3 +17,7 @@ docker run -it --rm timesler/jupyter-dl-gpu pip install facenet-pytorch && ipyth
 (3)
 pip install Pillow
 
+
+----------------------------------
+
+Now run the "app.py" file.
