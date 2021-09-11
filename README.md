@@ -2,7 +2,7 @@
 
 Installation of dependencies,
 
-(1) pip install face-recognition
+(1) pip install face_recognition
 
 (2) With pip:
 pip install facenet-pytorch
